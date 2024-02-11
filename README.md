@@ -1,7 +1,8 @@
 # Droplet Detection using OpenCV
-### Finds and counts circles in an image using user-defined values
+### Finds and counts droplets in a PCR image using user-defined values
+### Can be used for general circle detection as well
 
-Open an image on your computer using the gui.
+Open the image from your computer using the gui.
 
 <img src = "/readme assets/pic1.png" alt="App Front" style="aspect-ratio:auto;width:300px">
 
